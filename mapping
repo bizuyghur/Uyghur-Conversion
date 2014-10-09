@@ -1,0 +1,169 @@
+
+# convert to "a"
+u'\ufbea': u'\u0626\u0627',
+u'\ufe8e': u'\u0627',
+u'\ufe8d': u'\u0627',  
+u'\ufbeb': u'\u0626\u0627',
+# convert to "e"
+u'\ufeea': u'\u06d5',
+u'\ufbec': u'\u0626\u06d5',
+u'\ufee9': u'\u06d5',
+u'\ufbed': u'\u0626\u06d5',
+# convert to "b"
+u'\ufe8f': u'\u0628',
+u'\ufe90': u'\u0628',
+u'\ufe92': u'\u0628',
+u'\ufe91': u'\u0628',
+# convert to "p"
+u'\ufb56': u'\u067e',
+u'\ufb57': u'\u067e',
+u'\ufb59': u'\u067e',
+u'\ufb58': u'\u067e',
+# convert to "t"
+u'\ufe96':u'\u062a',
+u'\ufe98':u'\u062a',
+u'\ufe97':u'\u062a',
+u'\ufe95':u'\u062a',
+# convert to "j"
+u'\ufea0':u'\u062c',
+u'\ufe9e':u'\u062c',
+u'\ufe9d':u'\u062c',
+u'\ufe9f':u'\u062c',
+# convert to "ch"
+u'\ufb7a':u'\u0686,
+u'\ufb7b':u'\u0686,
+u'\ufb7c':u'\u0686,
+u'\ufb7d':u'\u0686,
+# convert to "x - Xoten"
+u'\ufea5':u'\u062e',
+u'\ufea6':u'\u062e',
+u'\ufea7':u'\u062e',
+u'\ufea8':u'\u062e',  
+# convert to "d"
+u'\ufeaa':u'\u062f',
+u'\ufea9':u'\u062f',
+# convert to "r"
+u'\ufeae':u'\u0631',
+u'\ufead':u'\u0631', 
+# convert to "z"
+u'\ufeb0':u'\u0632',
+u'\ufeaf':u'\u0632',
+# convert to "zh-Zhornal"
+u'\ufb8b':u'\u0698',
+u'\ufb8a'u'\u0698',
+# convert to "s"
+u'\ufeb1':u'\u0633',
+u'\ufeb2':u'\u0633',
+u'\ufeb3':u'\u0633',
+u'\ufeb4':u'\u0633',
+# convert to "sh-sheher"
+u'\ufeb5':u'\u0634',
+u'\ufeb6':u'\u0634',
+u'\ufeb7':u'\u0634',
+u'\ufeb8':u'\u0634',
+# convert to "gh-gherb"
+u'\ufece':u'\u063a',
+u'\ufed0':u'\u063a',
+u'\ufecf':u'\u063a',
+u'\ufecd':u'\u063a',
+# convert to "f"
+u'\ufed1':u'\u0641',
+u'\ufed2':u'\u0641',
+u'\ufed3':u'\u0641',
+u'\ufed4':u'\u0641',
+# convert to "q-Qeshqer"
+u'\ufed5':u'\u0642',
+u'\ufed6':u'\u0642',
+u'\ufed7':u'\u0642',
+u'\ufed8':u'\u0642',
+# convert to "k"
+u'\ufeda':u'\u0643',
+u'\ufedb':u'\u0643',
+u'\ufedc':u'\u0643',
+u'\ufed9':u'\u0643',
+# convert to "g"
+u'\ufb92':u'\u06af',
+u'\ufb93':u'\u06af',
+u'\ufb94':u'\u06af',
+u'\ufb95':u'\u06af', 
+# convert to "ng"
+u'\ufbd3':u'\u06ad',
+u'\ufbd4':u'\u06ad',
+u'\ufbd5':u'\u06ad',
+u'\ufbd6':u'\u06ad',
+# convert to "l"
+u'\ufede':u'\u0644',
+u'\ufedd':u'\u0644',
+u'\ufedf':u'\u0644',
+u'\ufee0':u'\u0644',
+# convert to "la"
+u'\ufefc':u'\u0644\u0627',
+u'\ufefb':u'\u0644\u0627',
+# convert to "m"
+u'\ufee1':u'\u0645',
+u'\ufee2':u'\u0645',
+u'\ufee3':u'\u0645',
+u'\ufee4':u'\u0645',
+# convert to "n"
+u'\ufee5':u'\u0646',
+u'\ufee6':u'\u0646',
+u'\ufee7':u'\u0646',
+u'\ufee8':u'\u0646',
+# convert to "h-hazir"
+u'\ufeeb':u'\u06be',
+u'\ufeec':u'\u06be',
+u'\ufbac':u'\u06be',
+u'\ufbab':u'\u06be',
+u'\ufbaa':u'\u06be',
+u'\ufbad':u'\u06be',
+# convert to "o"
+u'\ufeee':u'\u0648',
+u'\ufeed':u'\u0648',
+u'\ufbee':u'\u0626\u0648',
+u'\ufbef':u'\u0626\u0648',
+# convert to "u"
+
+u'\ufbf0':u'\u0626\u06c7',
+u'\ufbd7':u'\u06c7',
+u'\ufbd8':u'\u06c7',
+u'\ufbf1':u'\u0626\u06c7',
+# convert to "u-uzum"
+u'\ufbf4':u'\u0626\u06c8',
+u'\ufbf5':u'\u0626\u06c8',
+u'\ufbdb':u'\u06c8',
+u'\ufbdc':u'\u06c8',
+# convert to "o-ogey"
+u'\ufbf2':u'\u0626\u06c6',
+u'\ufbf3':u'\u0626\u06c6',
+u'\ufbda':u'\u06c6',
+u'\ufbd9':u'\u06c6',
+# convert to "w"
+u'\ufbdf':u'\u06cb',
+u'\ufbde':u'\u06cb',
+# convert to "e-eyiq"
+u'\ufbf6':u'\u0626\u06d0',
+u'\ufbf7':u'\u0626\u06d0',
+u'\ufbf8':u'\u0626\u06d0',
+u'\ufbd1':u'\u0626\u06d0',
+u'\uFBE4':u'\u06d0',
+u'\ufbe5':u'\u06d0',
+u'\ufbe6':u'\u06d0',
+u'\ufbe7':u'\u06d0',
+# convert to "i"
+u'\ufbf9':u'\u0626\u0649',
+u'\ufbfa':u'\u0626\u0649',
+u'\ufbfb':u'\u0626\u0649',
+u'\ufbd2':u'\u0626\u0649',
+u'\ufeef':u'\u0649',
+u'\ufbe9':u'\u0649',
+u'\ufef0':u'\u0649',
+u'\ufbe8':u'\u0649',
+# convert to "y"
+u'\ufef2':u'\u064a',
+u'\ufef4':u'\u064a',
+u'\ufef3':u'\u064a',
+u'\ufef1':u'\u064a',
+# convert to "hamza"
+u'\ufe8b':u'\u0626',
+u'\ufe8c':u'\u0626',
+
